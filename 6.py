@@ -1,4 +1,4 @@
-# Solution to Day 5
+# Solution to Day 6
 
 from functools import reduce
 import operator
