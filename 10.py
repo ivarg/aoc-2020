@@ -1,4 +1,4 @@
-# Solution to Day 9
+# Solution to Day 10
 
 from collections import Counter
 
