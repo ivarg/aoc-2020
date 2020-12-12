@@ -1,7 +1,5 @@
 # Solution to Day 11
 
-from collections import OrderedDict
-
 def read_input():
     return open("input-11.txt", "r").readlines()
 
